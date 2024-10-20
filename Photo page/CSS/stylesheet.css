@@ -1,0 +1,10 @@
+h1 {text-align:center
+}
+img {width:790px;height:500px;box-shadow: 4px 4px 5px #838383; padding:10px
+}
+.images {margin-left:60px
+}
+img:hover {transform:scale(2,2);border-radius:50%
+}
+.images1 {margin-left:60px
+}
